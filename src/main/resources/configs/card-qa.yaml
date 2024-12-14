@@ -1,0 +1,11 @@
+build:
+  version: '2.0'
+
+card:
+  message: "Welcome to EazyBank card related QA APIs "
+  contactDetails:
+    name: "Nipuni Perera - QA Lead"
+    email: "nipuni@eazybank.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1345
