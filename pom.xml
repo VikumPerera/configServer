@@ -78,7 +78,7 @@
 				<version>3.4.4</version>
 				<configuration>
 					<to>
-						<image>vikum92/config-server:s7</image>
+						<image>vikum92/config-server:s8</image>
 					</to>
 				</configuration>
 			</plugin>
